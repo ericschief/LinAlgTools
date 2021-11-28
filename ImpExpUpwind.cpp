@@ -5,7 +5,7 @@
 #include<fstream>
 #include"tools.h"
 using namespace std;
-const double pi = 3.14159265358979323846264338327950288419716939937510;
+const double pi = 4*arctan(1);
 
 
 
