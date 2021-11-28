@@ -1,2 +1,2 @@
 # Methods-For-Hyperbolic-PDEs
-These methods include the 1D Lax Wendroff, Leap Frog, and implicit and explicit upwind methods.
+These methods include implicit and explicit upwind finite difference schemes as well as the lax wendroff for a system of hyperbolic PDEs.
